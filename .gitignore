@@ -1,0 +1,21 @@
+
+__pycache__/
+.venv/
+venv/
+ENV/
+env/
+.env
+*.env
+.DS_Store
+.vscode/
+
+# Logs and dumps
+*.log
+
+# Pip or poetry artifacts
+pip-wheel-metadata/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+*.db
